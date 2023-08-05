@@ -3,7 +3,7 @@
 
 -   🔭 I’m currently working on [ClerkShortcutPro](https://github.com/Martzyx/clerkshortcutpro)
 
--   🌱 I’m currently learning **React JavaScript, PHP, C#, Python**
+-   🌱 I’m currently learning **React, TypeScript, PHP, C#, Python, Docker**
 
 -   👨‍💻 Most of my projects are available at [GitHub profile](https://github.com/Martzyx)
 
