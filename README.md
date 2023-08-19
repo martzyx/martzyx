@@ -15,9 +15,6 @@
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
-            alt="angularjs" width="40" height="40" /> </a>
     <a href="https://shopify.dev/docs/api/liquid" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="Liquid" width="40" height="40" />
     </a>
