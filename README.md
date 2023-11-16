@@ -5,7 +5,7 @@
 
 -   🌱 I’m currently learning **React, TypeScript, PHP, C#, Python, Docker**
 
--   👨‍💻 Most of my projects are available at [GitHub profile]([https://github.com/Martzyx](https://github.com/Martzyx?tab=repositories))
+-   👨‍💻 Most of my projects are available at [GitHub profile](https://github.com/Martzyx?tab=repositories)
 
 -   ⚡ Fun fact **I eat chips with chopsticks**
 
