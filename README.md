@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin (a.k.a Martz)</h1>
 <h3 align="center">A passionate IT professional, located in Copenhagen</h3>
 
--   🔭 I’m currently working on projects that help productivity for my colleagues and I
+-   🔭 I’m currently working on projects that help productivity for my colleagues and customers
 
 -   🌱 I’m currently learning **React, TypeScript, PHP, C#, Python, Docker**
 
